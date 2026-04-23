@@ -4,11 +4,16 @@
     "https://raw.githubusercontent.com/victecnolo/foto/main/banner2.webp.webp",
     "https://raw.githubusercontent.com/victecnolo/foto/main/banner3.webp.webp"
   ],
-  "barrios": [
-    "https://raw.githubusercontent.com/victecnolo/foto/main/banner4.webp.webp",
-    "https://raw.githubusercontent.com/victecnolo/foto/main/banner5.webp.webp"
-  ],
   "comercios": [
     "https://raw.githubusercontent.com/victecnolo/foto/main/banner6.webp.webp"
+  ],
+  "profesionales": [
+    "https://raw.githubusercontent.com/victecnolo/foto/main/banner1.webp.webp"
+  ],
+  "oficios": [
+    "https://raw.githubusercontent.com/victecnolo/foto/main/banner2.webp.webp"
+  ],
+  "fijos": [
+    "https://raw.githubusercontent.com/victecnolo/foto/main/banner4.webp.webp"
   ]
 }
