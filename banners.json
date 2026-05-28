@@ -1,34 +1,343 @@
 {
   "banners": {
     "Principal": [
-      "https://raw.githubusercontent.com/victecnolo/foto/main/Comercios4.webp",
-      "https://raw.githubusercontent.com/victecnolo/foto/main/Comercios5.webp",
-      "https://raw.githubusercontent.com/victecnolo/foto/main/Comercios6.webp"
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url1.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url2.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url3.webp"
     ],
     "COMERCIOS": [
-      "https://raw.githubusercontent.com/victecnolo/foto/main/Comercios4.webp",
-      "https://raw.githubusercontent.com/victecnolo/foto/main/Comercios5.webp",
-      "https://raw.githubusercontent.com/victecnolo/foto/main/Comercios6.webp"
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url4.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url5.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url6.webp"
     ],
     "Almacenes": [
-      "https://raw.githubusercontent.com/victecnolo/foto/main/Comercios4.webp",
-      "https://raw.githubusercontent.com/victecnolo/foto/main/Comercios5.webp",
-      "https://raw.githubusercontent.com/victecnolo/foto/main/Comercios6.webp"
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url7.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url8.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url9.webp"
     ],
-    "Comisionista": [
-      "https://raw.githubusercontent.com/victecnolo/foto/main/Comisionista385.webp",
-      "https://raw.githubusercontent.com/victecnolo/foto/main/Comisionista386.webp",
-      "https://raw.githubusercontent.com/victecnolo/foto/main/Comisionista387.webp"
+    "Autos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url10.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url11.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url12.webp"
     ],
-    "Compra venta": [
-      "https://raw.githubusercontent.com/victecnolo/foto/main/Compra%20venta730.webp",
-      "https://raw.githubusercontent.com/victecnolo/foto/main/Compra%20venta731.webp",
-      "https://raw.githubusercontent.com/victecnolo/foto/main/Compra%20venta732.webp"
+    "Bazar": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url13.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url14.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url15.webp"
     ],
-    "Colegiales": [
-      "https://raw.githubusercontent.com/victecnolo/foto/main/Colegiales580.webp",
-      "https://raw.githubusercontent.com/victecnolo/foto/main/Colegiales581.webp",
-      "https://raw.githubusercontent.com/victecnolo/foto/main/Colegiales582.webp"
-    ]
-  }
-}
+    "Bebidas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url16.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url17.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url18.webp"
+    ],
+    "Bicicleterías": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url19.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url20.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url21.webp"
+    ],
+    "Carnicerías": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url22.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url23.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url24.webp"
+    ],
+    "Calzados": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url25.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url26.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url27.webp"
+    ],
+    "Caza y pesca": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url28.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url29.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url30.webp"
+    ],
+    "Celulares": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url31.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url32.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url33.webp"
+    ],
+    "Cotillones": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url34.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url35.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url36.webp"
+    ],
+    "Electrodomésticos (hogar)": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url37.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url38.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url39.webp"
+    ],
+    "Electricidad": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url40.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url41.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url42.webp"
+    ],
+    "Electrónica": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url43.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url44.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url45.webp"
+    ],
+    "Fábricas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url46.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url47.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url48.webp"
+    ],
+    "Farmacias": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url49.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url50.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url51.webp"
+    ],
+    "Ferreterías": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url52.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url53.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url54.webp"
+    ],
+    "Financieras": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url55.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url56.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url57.webp"
+    ],
+    "Gastronomía": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url58.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url59.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url60.webp"
+    ],
+    "Gimnasios": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url61.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url62.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url63.webp"
+    ],
+    "Gomería": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url64.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url65.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url66.webp"
+    ],
+    "Heladerías": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url67.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url68.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url69.webp"
+    ],
+    "Hoteles": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url70.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url71.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url72.webp"
+    ],
+    "Imprentas - Grafica": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url73.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url74.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url75.webp"
+    ],
+    "Inmobiliarias": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url76.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url77.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url78.webp"
+    ],
+    "Joyerías": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url79.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url80.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url81.webp"
+    ],
+    "Juegos y Apuestas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url82.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url83.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url84.webp"
+    ],
+    "Kioscos y Drugstore": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url85.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url86.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url87.webp"
+    ],
+    "Lavadero autos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url88.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url89.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url90.webp"
+    ],
+    "Librerías": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url91.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url92.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url93.webp"
+    ],
+    "Mayoristas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url94.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url95.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url96.webp"
+    ],
+    "Motos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url97.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url98.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url99.webp"
+    ],
+    "Neumáticos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url100.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url101.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url102.webp"
+    ],
+    "Obras sociales": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url103.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url104.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url105.webp"
+    ],
+    "Panaderías": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url106.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url107.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url108.webp"
+    ],
+    "Pastelerías": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url109.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url110.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url111.webp"
+    ],
+    "Peluquería-Barbería": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url112.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url113.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url114.webp"
+    ],
+    "Polleria": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url115.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url116.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url117.webp"
+    ],
+    "Radios": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url118.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url119.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url120.webp"
+    ],
+    "Ropa Indumentaria": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url121.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url122.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url123.webp"
+    ],
+    "Salones de fiesta": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url124.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url125.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url126.webp"
+    ],
+    "Supermercados": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url127.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url128.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url129.webp"
+    ],
+    "Turismo Y Viajes": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url130.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url131.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url132.webp"
+    ],
+    "Verdulerías": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url133.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url134.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url135.webp"
+    ],
+    "Casa de Comidas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url139.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url140.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url141.webp"
+    ],
+    "Confiterías": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url142.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url2143.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url144.webp"
+    ],
+    "Cafeterías": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url145.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url146.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url147.webp"
+    ],
+    "Empanadas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url148.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url149.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url150.webp"
+    ],
+    "Pancherias": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url151.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url152.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url153.webp"
+    ],
+    "Parrilladas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url154.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url155.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url156.webp"
+    ],
+    "Pizzerías": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url157.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url158.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url159.webp"
+    ],
+    "Restaurantes": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url160.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url161.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url162.webp"
+    ],
+    "Rotiserías": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url163.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url164.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url165.webp"
+    ],
+    "Sandwicherías": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url166.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url167.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url168.webp"
+    ],
+    "Agencias Autos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url172.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url173.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url174.webp"
+    ],
+    "Repuestos Autos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url175.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url176.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url177.webp"
+    ],
+    "Taller y Reparación Autos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url178.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url179.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url180.webp"
+    ],
+    "Agencias Motos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url184.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url185.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url186.webp"
+    ],
+    "Repuestos Motos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url187.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url188.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url189.webp"
+    ],
+    "Taller y Reparación Motos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url190.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url191.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url192.webp"
+    ],
+    "Profesionales": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url193.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url194.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url195.webp"
+    ],
+    "Abogados": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url196.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url197.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url198.webp"
+    ],
+    "Arquitectos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url199.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url200.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url201.webp"
+    ],
+    "Bioquímicos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url202.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url203.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url204.webp"
+    ],
+    "Contadores Públicos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url205.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url206.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url207.webp"
+    ],
+    "Dentistas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url208.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url209.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url210.webp"
+    ],
+    "Ingenieros": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url211.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url212.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/url213.webp"
+    ],
+    "Médicos":
