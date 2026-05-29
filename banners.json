@@ -1,9 +1,9 @@
 {
   "banners": {
     "Principal": [
-      "https://raw.githubusercontent.com/victecnolo/foto/main/Colegiales580.webp",
-      "https://raw.githubusercontent.com/victecnolo/foto/main/Colegiales581.webp",
-      "https://raw.githubusercontent.com/victecnolo/foto/main/Colegiales582.webp"
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Principal1.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Principal2.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Principal3.webp"
     ],
     "COMERCIOS": [
       "https://raw.githubusercontent.com/victecnolo/foto/main/Comercios4.webp",
@@ -11,19 +11,1264 @@
       "https://raw.githubusercontent.com/victecnolo/foto/main/Comercios6.webp"
     ],
     "Almacenes": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Almacenes7.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Almacenes8.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Almacenes9.webp"
+    ],
+    "Autos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Autos10.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Autos11.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Autos12.webp"
+    ],
+    "Bazar": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Bazar13.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Bazar14.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Bazar15.webp"
+    ],
+    "Bebidas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Bebidas16.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Bebidas17.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Bebidas18.webp"
+    ],
+    "Bicicleterías": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Bicicleterías19.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Bicicleterías20.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Bicicleterías21.webp"
+    ],
+    "Carnicerías": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Carnicerías22.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Carnicerías23.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Carnicerías24.webp"
+    ],
+    "Calzados": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Calzados25.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Calzados26.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Calzados27.webp"
+    ],
+    "Caza y pesca": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cazaypesca28.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cazaypesca29.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cazaypesca30.webp"
+    ],
+    "Celulares": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Celulares31.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Celulares32.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Celulares33.webp"
+    ],
+    "Cotillones": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cotillones34.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cotillones35.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cotillones36.webp"
+    ],
+    "Electrodomésticos (hogar)": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Electrodomésticoshogar37.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Electrodomésticoshogar38.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Electrodomésticoshogar39.webp"
+    ],
+    "Electricidad": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Electricidad40.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Electricidad41.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Electricidad42.webp"
+    ],
+    "Electrónica": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Electrónica43.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Electrónica44.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Electrónica45.webp"
+    ],
+    "Fábricas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Fábricas46.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Fábricas47.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Fábricas48.webp"
+    ],
+    "Farmacias": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Farmacias49.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Farmacias50.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Farmacias51.webp"
+    ],
+	"Ferreterías": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Ferreterías52.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Ferreterías53.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Ferreterías54.webp"
+    ],
+    "Financieras": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Financieras55.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Financieras56.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Financieras57.webp"
+    ],
+    "Gastronomía": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Gastronomía58.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Gastronomía59.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Gastronomía60.webp"
+    ],
+    "Gimnasios": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Gimnasios61.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Gimnasios62.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Gimnasios63.webp"
+    ],
+    "Gomería": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Gomería64.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Gomería65.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Gomería66.webp"
+    ],
+    "Heladerías": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Heladerías67.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Heladerías68.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Heladerías69.webp"
+    ],
+    "Hoteles": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Hoteles70.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Hoteles71.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Hoteles72.webp"
+    ],
+    "Imprentas - Grafica": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Imprentas-Grafica73.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Imprentas-Grafica74.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Imprentas-Grafica75.webp"
+    ],
+    "Inmobiliarias": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Inmobiliarias76.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Inmobiliarias77.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Inmobiliarias78.webp"
+    ],
+    "Joyerías": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Joyerías79.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Joyerías80.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Joyerías81.webp"
+    ],
+    "Juegos y Apuestas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/JuegosyApuestas82.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/JuegosyApuestas83.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/JuegosyApuestas84.webp"
+    ],
+    "Kioscos y Drugstore": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/KioscosyDrugstore85.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/KioscosyDrugstore86.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/KioscosyDrugstore87.webp"
+    ],
+    "Lavadero autos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Lavaderoautos88.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Lavaderoautos89.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Lavaderoautos90.webp"
+    ],
+    "Librerías": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Librerías91.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Librerías92.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Librerías93.webp"
+    ],
+    "Mayoristas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Mayoristas94.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Mayoristas95.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Mayoristas96.webp"
+    ],
+    "Motos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Motos97.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Motos98.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Motos99.webp"
+    ],
+    "Neumáticos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Neumáticos100.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Neumáticos101.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Neumáticos102.webp"
+    ],
+    "Obras sociales": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Obrassociales103.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Obrassociales104.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Obrassociales105.webp"
+    ],
+    "Panaderías": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Panaderías106.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Panaderías107.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Panaderías108.webp"
+    ],
+    "Pastelerías": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Pastelerías109.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Pastelerías110.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Pastelerías111.webp"
+    ],
+    "Peluquería-Barbería": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Peluquería-Barbería112.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Peluquería-Barbería113.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Peluquería-Barbería114.webp"
+    ],
+    "Polleria": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Polleria115.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Polleria116.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Polleria117.webp"
+    ],
+    "Radios": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Radios118.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Radios119.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Radios120.webp"
+    ],
+    "Ropa Indumentaria": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/RopaIndumentaria121.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/RopaIndumentaria122.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/RopaIndumentaria123.webp"
+    ],
+    "Salones de fiesta": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Salonesdefiesta124.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Salonesdefiesta125.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Salonesdefiesta126.webp"
+    ],
+    "Supermercados": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Supermercados127.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Supermercados128.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Supermercados129.webp"
+    ],
+    "Turismo Y Viajes": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/TurismoYViajes130.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/TurismoYViajes131.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/TurismoYViajes132.webp"
+    ],
+    "Verdulerías": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Verdulerías133.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Verdulerías134.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Verdulerías135.webp"
+    ],
+    "Casa de Comidas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/CasadeComidas139.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/CasadeComidas140.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/CasadeComidas141.webp"
+    ],
+    "Confiterías": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Confiterías142.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Confiterías143.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Confiterías144.webp"
+    ],
+    "Cafeterías": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cafeterías145.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cafeterías146.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cafeterías147.webp"
+    ],
+    "Empanadas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Empanadas148.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Empanadas149.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Empanadas150.webp"
+    ],
+    "Pancherias": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Pancherias151.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Pancherias152.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Pancherias153.webp"
+    ],
+    "Parrilladas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Parrilladas154.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Parrilladas155.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Parrilladas156.webp"
+    ],
+    "Pizzerías": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Pizzerías157.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Pizzerías158.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Pizzerías159.webp"
+    ],
+    "Restaurantes": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Restaurantes160.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Restaurantes161.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Restaurantes162.webp"
+    ],
+    "Rotiserías": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Rotiserías163.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Rotiserías164.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Rotiserías165.webp"
+    ],
+    "Sandwicherías": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Sandwicherías166.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Sandwicherías167.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Sandwicherías168.webp"
+    ],
+    "Agencias Autos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/AgenciasAutos172.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/AgenciasAutos173.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/AgenciasAutos174.webp"
+    ],
+    "Repuestos Autos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/RepuestosAutos175.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/RepuestosAutos176.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/RepuestosAutos177.webp"
+    ],
+    "Taller y Reparación Autos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/TalleryReparaciónAutos178.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/TalleryReparaciónAutos179.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/TalleryReparaciónAutos180.webp"
+    ],
+    "Agencias Motos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/AgenciasMotos184.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/AgenciasMotos185.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/AgenciasMotos186.webp"
+    ],
+    "Repuestos Motos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/RepuestosMotos187.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/RepuestosMotos188.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/RepuestosMotos189.webp"
+    ],
+    "Taller y Reparación Motos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/TalleryReparaciónMotos190.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/TalleryReparaciónMotos191.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/TalleryReparaciónMotos192.webp"
+    ],
+    "Profesionales": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Profesionales193.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Profesionales194.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Profesionales195.webp"
+    ],
+    "Abogados": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Abogados196.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Abogados197.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Abogados198.webp"
+    ],
+    "Arquitectos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Arquitectos199.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Arquitectos200.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Arquitectos201.webp"
+    ],
+    "Bioquímicos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Bioquímicos202.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Bioquímicos203.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Bioquímicos204.webp"
+    ],
+    "Contadores Públicos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ContadoresPúblicos205.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ContadoresPúblicos206.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ContadoresPúblicos207.webp"
+    ],
+    "Dentistas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Dentistas208.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Dentistas209.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Dentistas210.webp"
+    ],
+	"Ingenieros": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Ingenieros211.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Ingenieros212.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Ingenieros213.webp"
+    ],
+    "Médicos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Médicos214.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Médicos215.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Médicos216.webp"
+    ],
+    "Psicólogos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Psicólogos217.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Psicólogos218.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Psicólogos219.webp"
+    ],
+    "Veterinarios": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Veterinarios220.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Veterinarios221.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Veterinarios222.webp"
+    ],
+    "Alergia e Inmunología": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/AlergiaeInmunología223.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/AlergiaeInmunología224.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/AlergiaeInmunología225.webp"
+    ],
+    "Asma y Alergia": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/AsmayAlergia226.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/AsmayAlergia227.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/AsmayAlergia228.webp"
+    ],
+    "Cardiología": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cardiología229.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cardiología230.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cardiología231.webp"
+    ],
+    "Cardiología Infantil": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/CardiologíaInfantil232.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/CardiologíaInfantil233.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/CardiologíaInfantil234.webp"
+    ],
+    "Cirujano": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cirujano235.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cirujano236.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cirujano237.webp"
+    ],
+    "Citotecnología": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Citotecnología238.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Citotecnología239.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Citotecnología240.webp"
+    ],
+    "Clínica General": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ClínicaGeneral241.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ClínicaGeneral242.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ClínicaGeneral243.webp"
+    ],
+    "Dermatología": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Dermatología244.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Dermatología245.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Dermatología246.webp"
+    ],
+    "Endocrinología Infantil": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/EndocrinologíaInfantil247.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/EndocrinologíaInfantil248.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/EndocrinologíaInfantil249.webp"
+    ],
+    "Endoscopista": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Endoscopista250.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Endoscopista251.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Endoscopista252.webp"
+    ],
+    "Enfermería": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Enfermería253.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Enfermería254.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Enfermería255.webp"
+    ],
+    "Flebología, Varices": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/FlebologíaVarices256.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/FlebologíaVarices257.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/FlebologíaVarices258.webp"
+    ],
+    "Fonoaudiología": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Fonoaudiología259.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Fonoaudiología260.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Fonoaudiología261.webp"
+    ],
+    "Gastroenterología": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Gastroenterología262.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Gastroenterología263.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Gastroenterología264.webp"
+    ],
+    "Geriatría": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Geriatría265.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Geriatría266.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Geriatría267.webp"
+    ],
+    "Gerontología": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Gerontología268.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Gerontología269.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Gerontología270.webp"
+    ],
+    "Ginecología y Obstetricia": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/GinecologíayObstetricia271.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/GinecologíayObstetricia272.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/GinecologíayObstetricia273.webp"
+    ],
+    "Hematología": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Hematología274.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Hematología275.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Hematología276.webp"
+    ],
+    "Imágenes Bucales": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ImágenesBucales277.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ImágenesBucales278.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ImágenesBucales279.webp"
+    ],
+    "Homeopatía": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Homeopatía280.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Homeopatía281.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Homeopatía282.webp"
+    ],
+    "Infectología": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Infectología283.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Infectología284.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Infectología285.webp"
+    ],
+    "Kinesiología": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Kinesiología286.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Kinesiología287.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Kinesiología288.webp"
+    ],
+    "Masoterapia": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Masoterapia289.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Masoterapia290.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Masoterapia291.webp"
+    ],
+    "Mastología": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Mastología292.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Mastología293.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Mastología294.webp"
+    ],
+    "Mecánica Dental": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/MecánicaDental295.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/MecánicaDental296.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/MecánicaDental297.webp"
+    ],
+    "Nefrología": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Nefrología298.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Nefrología299.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Nefrología300.webp"
+    ],
+    "Neumonología": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Neumonología301.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Neumonología302.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Neumonología303.webp"
+    ],
+    "Neurocirugía": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Neurocirugía304.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Neurocirugía305.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Neurocirugía306.webp"
+    ],
+    "Neurofisiología": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Neurofisiología307.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Neurofisiología308.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Neurofisiología309.webp"
+    ],
+    "Neurología": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Neurología310.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Neurología311.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Neurología312.webp"
+    ],
+    "Nutrición": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Nutrición313.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Nutrición314.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Nutrición315.webp"
+    ],
+    "Obstetricia": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Obstetricia316.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Obstetricia317.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Obstetricia318.webp"
+    ],
+    "Oftalmología": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Oftalmología319.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Oftalmología320.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Oftalmología321.webp"
+    ],
+    "Oncología": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Oncología322.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Oncología323.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Oncología324.webp"
+    ],
+    "Otorrinolaringología": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Otorrinolaringología325.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Otorrinolaringología326.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Otorrinolaringología327.webp"
+    ],
+    "Parasitología": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Parasitología328.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Parasitología329.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Parasitología330.webp"
+    ],
+    "Patología": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Patología331.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Patología332.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Patología333.webp"
+    ],
+    "Pediatría": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Pediatría334.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Pediatría335.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Pediatría336.webp"
+    ],
+    "Proctología": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Proctología337.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Proctología338.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Proctología339.webp"
+    ],
+    "Psicomotricidad": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Psicomotricidad340.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Psicomotricidad341.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Psicomotricidad342.webp"
+    ],
+    "Psicopedagogía": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Psicopedagogía343.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Psicopedagogía344.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Psicopedagogía345.webp"
+    ],
+    "Oficios y servicios": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Oficiosyservicios346.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Oficiosyservicios347.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Oficiosyservicios348.webp"
+    ],
+    "Albañiles": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Albañiles349.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Albañiles350.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Albañiles351.webp"
+    ],
+    "Aire acondicionados": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Aireacondicionados352.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Aireacondicionados353.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Aireacondicionados354.webp"
+    ],
+	"Aluminios": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Aluminios355.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Aluminios356.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Aluminios357.webp"
+    ],
+    "Artesanos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Artesanos358.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Artesanos359.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Artesanos360.webp"
+    ],
+    "Barman": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Barman361.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Barman362.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Barman363.webp"
+    ],
+    "Carpintero": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Carpintero364.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Carpintero365.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Carpintero366.webp"
+    ],
+    "Cerrajero": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cerrajero367.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cerrajero368.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cerrajero369.webp"
+    ],
+    "Chapista": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Chapista370.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Chapista371.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Chapista372.webp"
+    ],
+    "Choferes": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Choferes373.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Choferes374.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Choferes375.webp"
+    ],
+    "Cielorrasos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cielorrasos376.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cielorrasos377.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cielorrasos378.webp"
+    ],
+    "Cocineros": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cocineros379.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cocineros380.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cocineros381.webp"
+    ],
+    "Cocina y calefones": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cocinaycalefones382.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cocinaycalefones383.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cocinaycalefones384.webp"
+    ],
+    "Comisionista": [
       "https://raw.githubusercontent.com/victecnolo/foto/main/Comisionista385.webp",
       "https://raw.githubusercontent.com/victecnolo/foto/main/Comisionista386.webp",
       "https://raw.githubusercontent.com/victecnolo/foto/main/Comisionista387.webp"
     ],
-    "Autos": [
-      "https://raw.githubusercontent.com/victecnolo/foto/main/Compra%20venta730.webp",
-      "https://raw.githubusercontent.com/victecnolo/foto/main/Compra%20venta731.webp",
-      "https://raw.githubusercontent.com/victecnolo/foto/main/Compra%20venta732.webp"
+    "Cosmetólogas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cosmetólogas388.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cosmetólogas389.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Cosmetólogas390.webp"
     ],
-    "Bazar": [
-      "https://raw.githubusercontent.com/victecnolo/foto/main/Compro594.webp",
+    "Disjokey": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Disjokey391.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Disjokey392.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Disjokey393.webp"
+    ],
+    "Diseñador grafico": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Diseñadorgrafico394.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Diseñadorgrafico395.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Diseñadorgrafico396.webp"
+    ],
+    "Electricistas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Electricistas397.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Electricistas398.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Electricistas399.webp"
+    ],
+    "Enfermeras": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Enfermeras400.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Enfermeras401.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Enfermeras402.webp"
+    ],
+    "Escritores": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Escritores403.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Escritores404.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Escritores405.webp"
+    ],
+    "Estética integral": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Estéticaintegral406.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Estéticaintegral407.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Estéticaintegral408.webp"
+    ],
+    "Flete": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Flete409.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Flete410.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Flete411.webp"
+    ],
+    "Gasistas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Gasistas412.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Gasistas413.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Gasistas414.webp"
+    ],
+    "Herreros": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Herreros415.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Herreros416.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Herreros417.webp"
+    ],
+    "Influencer": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Influencer418.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Influencer419.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Influencer420.webp"
+    ],
+    "Jardineros": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Jardineros421.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Jardineros422.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Jardineros423.webp"
+    ],
+    "Manicuras": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Manicuras424.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Manicuras425.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Manicuras426.webp"
+    ],
+    "Mecánicos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Mecánicos427.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Mecánicos428.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Mecánicos429.webp"
+    ],
+    "Modelos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Modelos430.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Modelos431.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Modelos432.webp"
+    ],
+    "Modistas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Modistas433.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Modistas434.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Modistas435.webp"
+    ],
+    "Mozos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Mozos436.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Mozos437.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Mozos438.webp"
+    ],
+    "Músicos y grupos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Músicosygrupos439.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Músicosygrupos440.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Músicosygrupos441.webp"
+    ],
+    "Payasos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Payasos442.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Payasos443.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Payasos444.webp"
+    ],
+    "Pedicuras": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Pedicuras445.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Pedicuras446.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Pedicuras447.webp"
+    ],
+    "Pintores": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Pintores448.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Pintores449.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Pintores450.webp"
+    ],
+    "Plomeros": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Plomeros451.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Plomeros452.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Plomeros453.webp"
+    ],
+    "Programadores": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Programadores454.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Programadores455.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Programadores456.webp"
+    ],
+    "Profesores": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Profesores457.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Profesores458.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Profesores459.webp"
+    ],
+    "Techistas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Techistas460.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Techistas461.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Techistas462.webp"
+    ],
+    "Ornamentación": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Ornamentación463.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Ornamentación464.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Ornamentación465.webp"
+    ],
+    "Otros": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Otros466.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Otros467.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Otros468.webp"
+    ],
+    "Sonido (fiestas)": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Sonidofiestas469.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Sonidofiestas470.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Sonidofiestas471.webp"
+    ],
+    "Tapicero": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Tapicero472.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Tapicero473.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Tapicero474.webp"
+    ],
+    "Zapateros": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Zapateros475.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Zapateros476.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Zapateros477.webp"
+    ],
+    "Instituciones": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Instituciones478.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Instituciones479.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Instituciones480.webp"
+    ],
+    "Agrupaciones Tradicionales (Gauchas)": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/AgrupacionesTradicionalesGauchas481.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/AgrupacionesTradicionalesGauchas482.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/AgrupacionesTradicionalesGauchas483.webp"
+    ],
+    "Ballet de Danzas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/BalletdeDanzas484.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/BalletdeDanzas485.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/BalletdeDanzas486.webp"
+    ],
+    "Clubes Deportivos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ClubesDeportivos487.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ClubesDeportivos488.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ClubesDeportivos489.webp"
+    ],
+    "Clubes de Veteranos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ClubesdeVeteranos490.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ClubesdeVeteranos491.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ClubesdeVeteranos492.webp"
+    ],
+    "Instituciones Bancarias": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/InstitucionesBancarias493.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/InstitucionesBancarias494.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/InstitucionesBancarias495.webp"
+    ],
+    "Instituciones Intermedias": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/InstitucionesIntermedias496.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/InstitucionesIntermedias497.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/InstitucionesIntermedias498.webp"
+    ],
+    "Instituciones Públicas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/InstitucionesPúblicas499.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/InstitucionesPúblicas500.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/InstitucionesPúblicas501.webp"
+    ],
+    "Instituciones Vecinales": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/InstitucionesVecinales502.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/InstitucionesVecinales503.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/InstitucionesVecinales504.webp"
+    ],
+    "Iglesias y Parroquias": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/IglesiasyParroquias505.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/IglesiasyParroquias506.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/IglesiasyParroquias507.webp"
+    ],
+    "Escuelas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Escuelas508.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Escuelas509.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Escuelas510.webp"
+    ],
+    "Jardines y Maternos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/JardinesyMaternos511.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/JardinesyMaternos512.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/JardinesyMaternos513.webp"
+    ],
+    "Escuelas Primarias": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/EscuelasPrimarias514.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/EscuelasPrimarias515.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/EscuelasPrimarias516.webp"
+    ],
+    "Escuelas Secundarias": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/EscuelasSecundarias517.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/EscuelasSecundarias518.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/EscuelasSecundarias519.webp"
+    ],
+    "Terciarias": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Terciarias520.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Terciarias521.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Terciarias522.webp"
+    ],
+    "Tecnicaturas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Tecnicaturas523.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Tecnicaturas524.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Tecnicaturas525.webp"
+    ],
+    "Universidades": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Universidades526.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Universidades527.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Universidades528.webp"
+    ],
+    "Academias-Institutos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Academias-Institutos529.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Academias-Institutos530.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Academias-Institutos531.webp"
+    ],
+    "Barrios": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Barrios532.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Barrios533.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Barrios534.webp"
+    ],
+    "1º de Mayo": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/1deMayo535.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/1deMayo536.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/1deMayo537.webp"
+    ],
+    "1º de Mayo2": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/1deMayo2538.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/1deMayo2539.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/1deMayo2540.webp"
+    ],
+    "30 Viviendas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/30Viviendas541.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/30Viviendas542.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/30Viviendas543.webp"
+    ],
+	"52 Viviendas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/52Viviendas544.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/52Viviendas545.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/52Viviendas546.webp"
+    ],
+    "Aconquija": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Aconquija547.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Aconquija548.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Aconquija549.webp"
+    ],
+    "Alvear": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Alvear550.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Alvear551.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Alvear552.webp"
+    ],
+    "Araoz de la Madrid": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/AraozdelaMadrid553.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/AraozdelaMadrid554.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/AraozdelaMadrid555.webp"
+    ],
+    "Balbín": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Balbín556.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Balbín557.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Balbín558.webp"
+    ],
+    "Batalla de Tucumán": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/BatalladeTucumán559.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/BatalladeTucumán560.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/BatalladeTucumán561.webp"
+    ],
+    "Belgrano": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Belgrano562.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Belgrano563.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Belgrano564.webp"
+    ],
+    "Círculo Médico": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/CírculoMédico565.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/CírculoMédico566.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/CírculoMédico567.webp"
+    ],
+    "Carlos Kirchner": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/CarlosKirchner568.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/CarlosKirchner569.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/CarlosKirchner570.webp"
+    ],
+    "Celestino Geisen": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/CelestinoGeisen571.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/CelestinoGeisen572.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/CelestinoGeisen573.webp"
+    ],
+    "Centro": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Centro574.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Centro575.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Centro576.webp"
+    ],
+    "Clínica": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Clínica577.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Clínica578.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Clínica579.webp"
+    ],
+    "Colegiales": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Colegiales580.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Colegiales581.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Colegiales582.webp"
+    ],
+    "Concepción 1": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Concepción1583.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Concepción1584.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Concepción1585.webp"
+    ],
+    "Concepción 2": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Concepción2586.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Concepción2587.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Concepción2588.webp"
+    ],
+    "Concepción 3": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Concepción3589.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Concepción3590.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Concepción3591.webp"
+    ],
+    "Corona": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Corona592.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Corona593.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Corona594.webp"
+    ],
+    "Costanera": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Costanera595.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Costanera596.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Costanera597.webp"
+    ],
+    "Demos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Demos598.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Demos599.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Demos600.webp"
+    ],
+    "Difunta Correa": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/DifuntaCorrea601.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/DifuntaCorrea602.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/DifuntaCorrea603.webp"
+    ],
+    "El Ceibo": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ElCeibo604.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ElCeibo605.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ElCeibo606.webp"
+    ],
+    "El Clavillo": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ElClavillo607.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ElClavillo608.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ElClavillo609.webp"
+    ],
+    "El Jardin": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ElJardín610.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ElJardín611.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ElJardín612.webp"
+    ],
+    "El Nevado": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ElNevado613.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ElNevado614.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ElNevado615.webp"
+    ],
+    "El Parque": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ElParque616.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ElParque617.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ElParque618.webp"
+    ],
+    "Ex - Terminal": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ExTerminal619.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ExTerminal620.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/ExTerminal621.webp"
+    ],
+    "Fátima": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Fátima622.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Fátima623.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Fátima624.webp"
+    ],
+    "Feia": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Feia625.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Feia626.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Feia627.webp"
+    ],
+    "Ferro": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Ferro628.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Ferro629.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Ferro630.webp"
+    ],
+    "García": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/García631.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/García632.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/García633.webp"
+    ],
+    "Haimes": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Haimes634.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Haimes635.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Haimes636.webp"
+    ],
+    "Hipólito Yrigoyen": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/HipólitoYrigoyen637.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/HipólitoYrigoyen638.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/HipólitoYrigoyen639.webp"
+    ],
+    "Ibatin": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Ibatin640.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Ibatin641.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Ibatin642.webp"
+    ],
+    "Iltico": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Iltico643.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Iltico644.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Iltico645.webp"
+    ],
+    "Independencia": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Independencia646.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Independencia647.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Independencia648.webp"
+    ],
+    "Inmaculada Concepción": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/InmaculadaConcepción649.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/InmaculadaConcepción650.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/InmaculadaConcepción651.webp"
+    ],
+    "Juan Domingo Perón": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/JuanDomingoPerón652.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/JuanDomingoPerón653.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/JuanDomingoPerón654.webp"
+    ],
+    "Las Marías del Nevado": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/LasMaríasdelNevado655.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/LasMaríasdelNevado656.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/LasMaríasdelNevado657.webp"
+    ],
+    "Las Rosas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/LasRosas658.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/LasRosas659.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/LasRosas660.webp"
+    ],
+    "Las Tipas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/LasTipas661.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/LasTipas662.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/LasTipas663.webp"
+    ],
+    "Los Lapachos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/LosLapachos664.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/LosLapachos665.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/LosLapachos666.webp"
+    ],
+    "Los Vegas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/LosVegas667.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/LosVegas668.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/LosVegas669.webp"
+    ],
+    "Martínez": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Martínez670.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Martínez671.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Martínez672.webp"
+    ],
+    "Municipal": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Municipal673.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Municipal674.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Municipal675.webp"
+    ],
+    "Obrero": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Obrero676.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Obrero677.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Obrero678.webp"
+    ],
+    "Pervinaz": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Pervinaz679.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Pervinaz680.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Pervinaz681.webp"
+    ],
+    "Policial": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Policial682.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Policial683.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Policial684.webp"
+    ],
+    "Potrero": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Potrero685.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Potrero686.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Potrero687.webp"
+    ],
+    "Riera": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Riera688.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Riera689.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Riera690.webp"
+    ],
+    "Reyes": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Reyes691.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Reyes692.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Reyes693.webp"
+    ],
+    "San Andrés": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/SanAndrés694.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/SanAndrés695.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/SanAndrés696.webp"
+    ],
+    "San Expedito": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/SanExpedito697.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/SanExpedito698.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/SanExpedito699.webp"
+    ],
+    "San Felipe": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/SanFelipe700.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/SanFelipe701.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/SanFelipe702.webp"
+    ],
+    "San Martín": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/SanMartín703.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/SanMartín704.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/SanMartín705.webp"
+    ],
+    "San Nicolás": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/SanNicolás706.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/SanNicolás707.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/SanNicolás708.webp"
+    ],
+    "San Rafael": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/SanRafael709.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/SanRafael710.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/SanRafael711.webp"
+    ],
+    "Sarmiento": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Sarmiento712.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Sarmiento713.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Sarmiento714.webp"
+    ],
+    "Unión": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Unión715.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Unión716.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Unión717.webp"
+    ],
+    "Vallejo": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Vallejo718.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Vallejo719.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Vallejo720.webp"
+    ],
+    "Villa Nueva": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/VillaNueva721.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/VillaNueva722.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/VillaNueva723.webp"
+    ],
+    "Zavalia": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Zavalia724.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Zavalia725.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Zavalia726.webp"
+    ],
+    "Clasificados": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Clasificados727.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Clasificados728.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Clasificados729.webp"
+    ],
+    "Compra venta": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Compraventa730.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Compraventa731.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Compraventa732.webp"
+    ],
+    "Compro": [
       "https://raw.githubusercontent.com/victecnolo/foto/main/Compro733.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Compro734.webp",
       "https://raw.githubusercontent.com/victecnolo/foto/main/Compro735.webp"
+    ],
+    "Vendo": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Vendo736.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Vendo737.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Vendo738.webp"
+    ],
+    "Oferta de empleo": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Ofertadeempleo739.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Ofertadeempleo740.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Ofertadeempleo741.webp"
+    ],
+    "Busco trabajo": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Buscotrabajo742.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Buscotrabajo743.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Buscotrabajo744.webp"
+    ],
+    "Oferto trabajo": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Ofertotrabajo745.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Ofertotrabajo746.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Ofertotrabajo747.webp"
+    ],
+    "Emergencias": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Emergencias748.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Emergencias749.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Emergencias750.webp"
+    ],
+	"Encuestas": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Encuestas169.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Encuestas170.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Encuestas171.webp"
+    ],
+    "Historias": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Historias751.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Historias752.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Historias753.webp"
+    ],
+    "Autoridades": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Autoridades754.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Autoridades755.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Autoridades756.webp"
+    ],
+    "Municipales": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Municipales757.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Municipales758.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Municipales759.webp"
+    ],
+    "Concejales": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Concejales760.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Concejales761.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Concejales762.webp"
+    ],
+    "Provinciales": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Provinciales763.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Provinciales764.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Provinciales765.webp"
+    ],
+    "Sorteos": [
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Sorteos767.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Sorteos768.webp",
+      "https://raw.githubusercontent.com/victecnolo/foto/main/Sorteos769.webp"
     ]
   }
 }
